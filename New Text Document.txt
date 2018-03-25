@@ -1,0 +1,1 @@
+(username===decrypt2(result[i].username,passwordu))&&(password===decrypt2(result[i].password,passwordu))
